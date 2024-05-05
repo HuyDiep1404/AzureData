@@ -1,0 +1,9 @@
+{
+	"name": "adlsnycpayroll-phung-DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3bc384a-bc5f-422d-abc3-1f5cd6ace77d",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
